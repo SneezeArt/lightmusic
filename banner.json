@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2021-06-15",
+    "datas": [
+      {
+        "musicHref": "/play/1136",
+        "musicName": "夏花争艳 (Summer Flower Rivalr)",
+        "musicArtist": "何真真",
+        "imageUrl": "http://i.htqyy.com/img8/2/1136.jpg"
+      },
+      {
+        "musicHref": "/play/785",
+        "musicName": "Once Upon A Time (多年以前)",
+        "musicArtist": "钢琴曲",
+        "imageUrl": "http://i.htqyy.com/img8/1/785.jpg"
+      },
+      {
+        "musicHref": "/gedan/101",
+        "musicName": "醉心-感受轻音乐的魅力",
+        "musicArtist": "",
+        "imageUrl": "http://i.htqyy.com/gedan/img/gd/101s.jpg",
+        "type": "2"
+      },
+      {
+        "musicHref": "/play/788",
+        "musicName": "寂色 (绝美的小提琴曲)",
+        "musicArtist": "神秘园",
+        "imageUrl": "http://i.htqyy.com/img8/1/788.jpg"
+      },
+      {
+        "musicHref": "/play/97",
+        "musicName": "新水浒传插曲 女生哼唱 (风中月)",
+        "musicArtist": "刘依朵",
+        "imageUrl": "http://i.htqyy.com/img8/0/97.jpg"
+      }
+    ]
+  }
+]
