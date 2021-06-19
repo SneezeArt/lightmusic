@@ -1,24 +1,24 @@
 [
   {
-    "date": "2021-06-17",
+    "date": "2021-06-19",
     "datas": [
       {
-        "musicHref": "/play/77",
-        "musicName": "沉醉于风中 (《爱情白皮书》配乐)",
-        "musicArtist": "神思者",
-        "imageUrl": "http://i.htqyy.com/img8/0/77.jpg"
+        "musicHref": "/play/1714",
+        "musicName": "且听风吟 (The Wind Sings)",
+        "musicArtist": "Goldmund",
+        "imageUrl": "http://i.htqyy.com/img8/3/1714.jpg"
       },
       {
-        "musicHref": "/play/785",
-        "musicName": "Once Upon A Time (多年以前)",
-        "musicArtist": "钢琴曲",
-        "imageUrl": "http://i.htqyy.com/img8/1/785.jpg"
+        "musicHref": "/play/1724",
+        "musicName": "蝶花飞舞 (古筝版)",
+        "musicArtist": "轻音乐",
+        "imageUrl": "http://i.htqyy.com/img8/0/430.jpg"
       },
       {
-        "musicHref": "/gedan/101",
-        "musicName": "醉心-感受轻音乐的魅力",
+        "musicHref": "/gedan/141",
+        "musicName": "追赶流行的脚步-必听好歌",
         "musicArtist": "",
-        "imageUrl": "http://i.htqyy.com/gedan/img/gd/101s.jpg",
+        "imageUrl": "http://i.htqyy.com/gedan/img/gd/141s.jpg",
         "type": "2"
       },
       {
