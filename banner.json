@@ -1,37 +1,37 @@
 [
   {
-    "date": "2021-06-23",
+    "date": "2021-06-25",
     "datas": [
       {
-        "musicHref": "/play/334",
-        "musicName": "Breath and Life",
-        "musicArtist": "Audiomachine",
-        "imageUrl": "http://i.htqyy.com/img8/0/334.jpg"
+        "musicHref": "/play/163",
+        "musicName": "亡灵序曲 (The Dawn)",
+        "musicArtist": "Dreamtale",
+        "imageUrl": "http://i.htqyy.com/img8/0/163.jpg"
       },
       {
-        "musicHref": "/play/818",
-        "musicName": "阿甘正传 (Forrest Gump 电影《阿甘正传》插曲) ",
-        "musicArtist": "Alan Silvestri",
-        "imageUrl": "http://i.htqyy.com/img8/1/818.jpg"
+        "musicHref": "/play/511",
+        "musicName": "千与千寻主题曲 (千尋のワルツ)",
+        "musicArtist": "久石让",
+        "imageUrl": "http://i.htqyy.com/img8/0/43.jpg"
       },
       {
-        "musicHref": "/gedan/168",
-        "musicName": "纯-让一切回到纯纯的时候",
+        "musicHref": "/gedan/60",
+        "musicName": "融古贯今之纯音乐",
         "musicArtist": "",
-        "imageUrl": "http://i.htqyy.com/gedan/img/gd/168s.jpg",
+        "imageUrl": "http://i.htqyy.com/gedan/img/gd/60s.jpg",
         "type": "2"
       },
       {
-        "musicHref": "/play/1637",
-        "musicName": "最终幻想钢琴曲 (光与波的记忆)",
-        "musicArtist": "轻音乐",
-        "imageUrl": "http://i.htqyy.com/img8/1/543.jpg"
+        "musicHref": "/play/47",
+        "musicName": "远方的寂静",
+        "musicArtist": "林海",
+        "imageUrl": "http://i.htqyy.com/img8/0/47.jpg"
       },
       {
-        "musicHref": "/play/1642",
-        "musicName": "River Flows In You",
-        "musicArtist": "Yiruma",
-        "imageUrl": "http://i.htqyy.com/img8/3/1533.jpg"
+        "musicHref": "/play/499",
+        "musicName": "忧郁洱海",
+        "musicArtist": "欢庆",
+        "imageUrl": "http://i.htqyy.com/img8/0/499.jpg"
       }
     ]
   }
