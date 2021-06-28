@@ -1,37 +1,37 @@
 [
   {
-    "date": "2021-06-25",
+    "date": "2021-06-28",
     "datas": [
       {
-        "musicHref": "/play/163",
-        "musicName": "亡灵序曲 (The Dawn)",
-        "musicArtist": "Dreamtale",
-        "imageUrl": "http://i.htqyy.com/img8/0/163.jpg"
+        "musicHref": "/play/187",
+        "musicName": "日晷之梦(电台背景音乐) (Sundial Dreams)",
+        "musicArtist": "Kevin Kern",
+        "imageUrl": "http://i.htqyy.com/img8/0/187.jpg"
       },
       {
-        "musicHref": "/play/511",
-        "musicName": "千与千寻主题曲 (千尋のワルツ)",
-        "musicArtist": "久石让",
-        "imageUrl": "http://i.htqyy.com/img8/0/43.jpg"
+        "musicHref": "/play/723",
+        "musicName": "月半小夜曲",
+        "musicArtist": "Lawrence",
+        "imageUrl": "http://i.htqyy.com/img8/1/723.jpg"
       },
       {
-        "musicHref": "/gedan/60",
-        "musicName": "融古贯今之纯音乐",
+        "musicHref": "/gedan/105",
+        "musicName": "心的协奏曲",
         "musicArtist": "",
-        "imageUrl": "http://i.htqyy.com/gedan/img/gd/60s.jpg",
+        "imageUrl": "http://i.htqyy.com/gedan/img/gd/105s.jpg",
         "type": "2"
       },
       {
-        "musicHref": "/play/47",
-        "musicName": "远方的寂静",
-        "musicArtist": "林海",
-        "imageUrl": "http://i.htqyy.com/img8/0/47.jpg"
+        "musicHref": "/play/191",
+        "musicName": "梁祝 (古筝) (李炜)",
+        "musicArtist": "纯音乐",
+        "imageUrl": "http://i.htqyy.com/img8/0/191.jpg"
       },
       {
-        "musicHref": "/play/499",
-        "musicName": "忧郁洱海",
-        "musicArtist": "欢庆",
-        "imageUrl": "http://i.htqyy.com/img8/0/499.jpg"
+        "musicHref": "/play/803",
+        "musicName": "水-禅意名曲 (茶禅一味)",
+        "musicArtist": "中国民乐",
+        "imageUrl": "http://i.htqyy.com/img8/1/803.jpg"
       }
     ]
   }
