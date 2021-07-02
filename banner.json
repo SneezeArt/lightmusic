@@ -1,37 +1,37 @@
 [
   {
-    "date": "2021-06-30",
+    "date": "2021-07-02",
     "datas": [
       {
-        "musicHref": "/play/105",
-        "musicName": "一个小故事 (A Little Story)",
-        "musicArtist": "Valentine",
-        "imageUrl": "http://i.htqyy.com/img8/0/105.jpg"
+        "musicHref": "/play/12",
+        "musicName": "夜莺 (Nightingale)",
+        "musicArtist": "雅尼",
+        "imageUrl": "http://i.htqyy.com/img8/0/12.jpg"
       },
       {
-        "musicHref": "/play/723",
-        "musicName": "月半小夜曲",
-        "musicArtist": "Lawrence",
-        "imageUrl": "http://i.htqyy.com/img8/1/723.jpg"
+        "musicHref": "/play/717",
+        "musicName": "致青春 (致我们终将逝去的青春)",
+        "musicArtist": "钢琴曲",
+        "imageUrl": "http://i.htqyy.com/img8/1/717.jpg"
       },
       {
-        "musicHref": "/gedan/105",
-        "musicName": "心的协奏曲",
+        "musicHref": "/gedan/106",
+        "musicName": "感受静谧 倾听经典2",
         "musicArtist": "",
-        "imageUrl": "http://i.htqyy.com/gedan/img/gd/105s.jpg",
+        "imageUrl": "http://i.htqyy.com/gedan/img/gd/106s.jpg",
         "type": "2"
       },
       {
-        "musicHref": "/play/826",
-        "musicName": "再见警察 (《无间道》插曲)",
-        "musicArtist": "冯曦妤",
-        "imageUrl": "http://i.htqyy.com/img8/1/826.jpg"
+        "musicHref": "/play/1218",
+        "musicName": "唯美的旋律：Life Goes On",
+        "musicArtist": "CMA",
+        "imageUrl": "http://i.htqyy.com/img8/2/1218.jpg"
       },
       {
-        "musicHref": "/play/803",
-        "musicName": "水-禅意名曲 (茶禅一味)",
-        "musicArtist": "中国民乐",
-        "imageUrl": "http://i.htqyy.com/img8/1/803.jpg"
+        "musicHref": "/play/277",
+        "musicName": "如诗般宁静",
+        "musicArtist": "黄永灿",
+        "imageUrl": "http://i.htqyy.com/img8/0/277.jpg"
       }
     ]
   }
