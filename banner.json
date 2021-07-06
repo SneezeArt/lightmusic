@@ -1,37 +1,37 @@
 [
   {
-    "date": "2021-07-02",
+    "date": "2021-07-06",
     "datas": [
       {
-        "musicHref": "/play/12",
-        "musicName": "夜莺 (Nightingale)",
-        "musicArtist": "雅尼",
-        "imageUrl": "http://i.htqyy.com/img8/0/12.jpg"
+        "musicHref": "/play/608",
+        "musicName": "一花一世界",
+        "musicArtist": "李志辉",
+        "imageUrl": "http://i.htqyy.com/img8/1/608.jpg"
       },
       {
-        "musicHref": "/play/717",
-        "musicName": "致青春 (致我们终将逝去的青春)",
-        "musicArtist": "钢琴曲",
-        "imageUrl": "http://i.htqyy.com/img8/1/717.jpg"
+        "musicHref": "/play/68",
+        "musicName": "千年回廊",
+        "musicArtist": "姬神",
+        "imageUrl": "http://i.htqyy.com/img8/0/68.jpg"
       },
       {
-        "musicHref": "/gedan/106",
-        "musicName": "感受静谧 倾听经典2",
+        "musicHref": "/gedan/10",
+        "musicName": "不一样的古典",
         "musicArtist": "",
-        "imageUrl": "http://i.htqyy.com/gedan/img/gd/106s.jpg",
+        "imageUrl": "http://i.htqyy.com/gedan/img/gd/10s.jpg",
         "type": "2"
       },
       {
-        "musicHref": "/play/1218",
-        "musicName": "唯美的旋律：Life Goes On",
-        "musicArtist": "CMA",
-        "imageUrl": "http://i.htqyy.com/img8/2/1218.jpg"
+        "musicHref": "/play/1284",
+        "musicName": "Just For You 只为你",
+        "musicArtist": "Giovanni",
+        "imageUrl": "http://i.htqyy.com/img8/1/877.jpg"
       },
       {
-        "musicHref": "/play/277",
-        "musicName": "如诗般宁静",
-        "musicArtist": "黄永灿",
-        "imageUrl": "http://i.htqyy.com/img8/0/277.jpg"
+        "musicHref": "/play/914",
+        "musicName": "舒伯特小夜曲 (史上最优美的小夜曲)",
+        "musicArtist": "静夜小夜曲",
+        "imageUrl": "http://i.htqyy.com/img8/2/1026.jpg"
       }
     ]
   }
