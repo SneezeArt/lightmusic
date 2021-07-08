@@ -1,37 +1,37 @@
 [
   {
-    "date": "2021-07-06",
+    "date": "2021-07-08",
     "datas": [
       {
-        "musicHref": "/play/608",
-        "musicName": "一花一世界",
-        "musicArtist": "李志辉",
-        "imageUrl": "http://i.htqyy.com/img8/1/608.jpg"
+        "musicHref": "/play/1723",
+        "musicName": "驰放轻音乐 (Inner Circle)",
+        "musicArtist": "Arnd Stein",
+        "imageUrl": "http://i.htqyy.com/img8/3/1723.jpg"
       },
       {
-        "musicHref": "/play/68",
-        "musicName": "千年回廊",
-        "musicArtist": "姬神",
-        "imageUrl": "http://i.htqyy.com/img8/0/68.jpg"
+        "musicHref": "/play/1683",
+        "musicName": "Wong Chia Chi's Theme (王佳芝主题)",
+        "musicArtist": "Alexandre Desplat",
+        "imageUrl": "http://i.htqyy.com/img8/3/1683.jpg"
       },
       {
-        "musicHref": "/gedan/10",
-        "musicName": "不一样的古典",
+        "musicHref": "/gedan/197",
+        "musicName": "天下足球之看球听歌",
         "musicArtist": "",
-        "imageUrl": "http://i.htqyy.com/gedan/img/gd/10s.jpg",
+        "imageUrl": "http://i.htqyy.com/gedan/img/gd/197s.jpg",
         "type": "2"
       },
       {
-        "musicHref": "/play/1284",
-        "musicName": "Just For You 只为你",
-        "musicArtist": "Giovanni",
-        "imageUrl": "http://i.htqyy.com/img8/1/877.jpg"
+        "musicHref": "/play/927",
+        "musicName": "贝多芬- 月光奏鸣曲 (Beethoven: Moonlight)",
+        "musicArtist": "贝多芬",
+        "imageUrl": "http://i.htqyy.com/img8/1/927.jpg"
       },
       {
-        "musicHref": "/play/914",
-        "musicName": "舒伯特小夜曲 (史上最优美的小夜曲)",
-        "musicArtist": "静夜小夜曲",
-        "imageUrl": "http://i.htqyy.com/img8/2/1026.jpg"
+        "musicHref": "/play/680",
+        "musicName": "D大调卡农 (Canon In D)",
+        "musicArtist": "Brian Crain",
+        "imageUrl": "http://i.htqyy.com/img8/1/680.jpg"
       }
     ]
   }
