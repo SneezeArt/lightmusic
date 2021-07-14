@@ -1,37 +1,37 @@
 [
   {
-    "date": "2021-07-13",
+    "date": "2021-07-14",
     "datas": [
       {
-        "musicHref": "/play/1478",
-        "musicName": "菊次郎的夏天",
-        "musicArtist": "纯音乐",
-        "imageUrl": "http://i.htqyy.com/img8/2/1478.jpg"
+        "musicHref": "/play/350",
+        "musicName": "我离开之前 (Before I Go)",
+        "musicArtist": "雅尼",
+        "imageUrl": "http://i.htqyy.com/img8/1/872.jpg"
       },
       {
-        "musicHref": "/play/425",
-        "musicName": "Europa (纯音乐)",
-        "musicArtist": "Globas",
-        "imageUrl": "http://i.htqyy.com/img8/0/425.jpg"
+        "musicHref": "/play/43",
+        "musicName": "永远在一起 (Always with me)",
+        "musicArtist": "久石让",
+        "imageUrl": "http://i.htqyy.com/img8/0/43.jpg"
       },
       {
-        "musicHref": "/gedan/10",
-        "musicName": "不一样的古典",
+        "musicHref": "/gedan/97",
+        "musicName": "轻音乐之乡 天籁净土",
         "musicArtist": "",
-        "imageUrl": "http://i.htqyy.com/gedan/img/gd/10s.jpg",
+        "imageUrl": "http://i.htqyy.com/gedan/img/gd/97s.jpg",
         "type": "2"
       },
       {
-        "musicHref": "/play/743",
-        "musicName": "曙光 Aurora (节奏纯音)",
+        "musicHref": "/play/513",
+        "musicName": "Journey",
         "musicArtist": "Capozio",
-        "imageUrl": "http://i.htqyy.com/img8/1/743.jpg"
+        "imageUrl": "http://i.htqyy.com/img8/1/513.jpg"
       },
       {
-        "musicHref": "/play/107",
-        "musicName": "风居住的街道",
-        "musicArtist": "轩尼诗",
-        "imageUrl": "http://i.htqyy.com/img8/0/107.jpg"
+        "musicHref": "/play/319",
+        "musicName": "祝福 (Wishing)",
+        "musicArtist": "安德蒙",
+        "imageUrl": "http://i.htqyy.com/img8/0/319.jpg"
       }
     ]
   }
