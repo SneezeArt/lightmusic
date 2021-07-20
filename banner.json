@@ -1,37 +1,37 @@
 [
   {
-    "date": "2021-07-14",
+    "date": "2021-07-15",
     "datas": [
       {
-        "musicHref": "/play/350",
-        "musicName": "我离开之前 (Before I Go)",
-        "musicArtist": "雅尼",
-        "imageUrl": "http://i.htqyy.com/img8/1/872.jpg"
+        "musicHref": "/play/430",
+        "musicName": "康妮的蝴蝶 (Connie's Butterfly)",
+        "musicArtist": "Shardad Rohani",
+        "imageUrl": "http://i.htqyy.com/img8/0/430.jpg"
       },
       {
-        "musicHref": "/play/43",
-        "musicName": "永远在一起 (Always with me)",
-        "musicArtist": "久石让",
-        "imageUrl": "http://i.htqyy.com/img8/0/43.jpg"
+        "musicHref": "/play/1376",
+        "musicName": "送别",
+        "musicArtist": "钢琴曲",
+        "imageUrl": "http://i.htqyy.com/img8/2/1376.jpg"
       },
       {
-        "musicHref": "/gedan/97",
-        "musicName": "轻音乐之乡 天籁净土",
+        "musicHref": "/gedan/180",
+        "musicName": "洗劫灵魂之音，多种曲风混合精选",
         "musicArtist": "",
-        "imageUrl": "http://i.htqyy.com/gedan/img/gd/97s.jpg",
+        "imageUrl": "http://i.htqyy.com/gedan/img/gd/180s.jpg",
         "type": "2"
       },
       {
-        "musicHref": "/play/513",
-        "musicName": "Journey",
-        "musicArtist": "Capozio",
-        "imageUrl": "http://i.htqyy.com/img8/1/513.jpg"
+        "musicHref": "/play/686",
+        "musicName": "峨眉金顶 (Golden Peak-蜀山OL原声乐)",
+        "musicArtist": "卢小旭",
+        "imageUrl": "http://i.htqyy.com/img8/1/686.jpg"
       },
       {
-        "musicHref": "/play/319",
-        "musicName": "祝福 (Wishing)",
-        "musicArtist": "安德蒙",
-        "imageUrl": "http://i.htqyy.com/img8/0/319.jpg"
+        "musicHref": "/play/67",
+        "musicName": "一人静 (新世纪天籁之音)",
+        "musicArtist": "姬神",
+        "imageUrl": "http://i.htqyy.com/img8/0/67.jpg"
       }
     ]
   }
