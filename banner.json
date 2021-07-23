@@ -1,24 +1,24 @@
 [
   {
-    "date": "2021-07-20",
+    "date": "2021-07-23",
     "datas": [
       {
-        "musicHref": "/play/430",
-        "musicName": "康妮的蝴蝶 (Connie's Butterfly)",
-        "musicArtist": "Shardad Rohani",
-        "imageUrl": "http://i.htqyy.com/img8/0/430.jpg"
+        "musicHref": "/play/600",
+        "musicName": "清尘雅琴 (荡涤心灵的尘埃)",
+        "musicArtist": "纯音乐",
+        "imageUrl": "http://i.htqyy.com/img8/1/600.jpg"
       },
       {
-        "musicHref": "/play/1376",
-        "musicName": "送别",
-        "musicArtist": "钢琴曲",
-        "imageUrl": "http://i.htqyy.com/img8/2/1376.jpg"
+        "musicHref": "/play/514",
+        "musicName": "Memories",
+        "musicArtist": "Capozio",
+        "imageUrl": "http://i.htqyy.com/img8/1/514.jpg"
       },
       {
-        "musicHref": "/gedan/180",
-        "musicName": "洗劫灵魂之音，多种曲风混合精选",
+        "musicHref": "/gedan/48",
+        "musicName": "睡眠轻音乐",
         "musicArtist": "",
-        "imageUrl": "http://i.htqyy.com/gedan/img/gd/180s.jpg",
+        "imageUrl": "http://i.htqyy.com/img8/ZJ/48.jpg",
         "type": "2"
       },
       {
