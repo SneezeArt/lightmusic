@@ -1,37 +1,37 @@
 [
   {
-    "date": "2021-07-23",
+    "date": "2021-07-27",
     "datas": [
       {
-        "musicHref": "/play/600",
-        "musicName": "清尘雅琴 (荡涤心灵的尘埃)",
-        "musicArtist": "纯音乐",
-        "imageUrl": "http://i.htqyy.com/img8/1/600.jpg"
+        "musicHref": "/play/433",
+        "musicName": "蝶恋花",
+        "musicArtist": "孙锐",
+        "imageUrl": "http://i.htqyy.com/img8/0/481.jpg"
       },
       {
-        "musicHref": "/play/514",
-        "musicName": "Memories",
-        "musicArtist": "Capozio",
-        "imageUrl": "http://i.htqyy.com/img8/1/514.jpg"
+        "musicHref": "/play/821",
+        "musicName": "Nocturne(改编自夜曲) (Anne Takle)",
+        "musicArtist": "神秘园",
+        "imageUrl": "http://i.htqyy.com/img8/1/821.jpg"
       },
       {
-        "musicHref": "/gedan/48",
-        "musicName": "睡眠轻音乐",
+        "musicHref": "/gedan/180",
+        "musicName": "洗劫灵魂之音，多种曲风混合精选",
         "musicArtist": "",
-        "imageUrl": "http://i.htqyy.com/img8/ZJ/48.jpg",
+        "imageUrl": "http://i.htqyy.com/gedan/img/gd/180s.jpg",
         "type": "2"
       },
       {
-        "musicHref": "/play/686",
-        "musicName": "峨眉金顶 (Golden Peak-蜀山OL原声乐)",
-        "musicArtist": "卢小旭",
-        "imageUrl": "http://i.htqyy.com/img8/1/686.jpg"
+        "musicHref": "/play/743",
+        "musicName": "曙光 Aurora (节奏纯音)",
+        "musicArtist": "Capozio",
+        "imageUrl": "http://i.htqyy.com/img8/1/743.jpg"
       },
       {
-        "musicHref": "/play/67",
-        "musicName": "一人静 (新世纪天籁之音)",
-        "musicArtist": "姬神",
-        "imageUrl": "http://i.htqyy.com/img8/0/67.jpg"
+        "musicHref": "/play/861",
+        "musicName": "传奇 (琴牵美人吟Ⅱ)",
+        "musicArtist": "段银莹",
+        "imageUrl": "http://i.htqyy.com/img8/1/861.jpg"
       }
     ]
   }
