@@ -1,37 +1,37 @@
 [
   {
-    "date": "2021-08-11",
+    "date": "2021-08-15",
     "datas": [
       {
-        "musicHref": "/play/1710",
-        "musicName": "秋天的色彩 (Autumn Colors)",
-        "musicArtist": "Soothing Relaxation",
-        "imageUrl": "http://i.htqyy.com/img8/3/1710.jpg"
+        "musicHref": "/play/1666",
+        "musicName": "大话西游片尾曲 (一生所爱)",
+        "musicArtist": "大话西游",
+        "imageUrl": "http://i.htqyy.com/img8/3/1666.jpg"
       },
       {
-        "musicHref": "/play/1705",
-        "musicName": "Your Eyes",
-        "musicArtist": "Andrew Jasinski",
-        "imageUrl": "http://i.htqyy.com/img8/3/1705.jpg"
+        "musicHref": "/play/1495",
+        "musicName": "Sleepless beauty (万有引力)",
+        "musicArtist": "浅仑大介",
+        "imageUrl": "http://i.htqyy.com/img8/2/1495.jpg"
       },
       {
-        "musicHref": "/gedan/49",
-        "musicName": "午夜的钢琴低语",
+        "musicHref": "/gedan/108",
+        "musicName": "轻音乐世界之旅",
         "musicArtist": "",
-        "imageUrl": "http://i.htqyy.com/gedan/img/gd/49s.jpg",
+        "imageUrl": "http://i.htqyy.com/gedan/img/gd/108s.jpg",
         "type": "2"
       },
       {
-        "musicHref": "/play/1723",
-        "musicName": "驰放轻音乐 (Inner Circle)",
-        "musicArtist": "Arnd Stein",
-        "imageUrl": "http://i.htqyy.com/img8/3/1723.jpg"
+        "musicHref": "/play/1478",
+        "musicName": "菊次郎的夏天",
+        "musicArtist": "纯音乐",
+        "imageUrl": "http://i.htqyy.com/img8/2/1478.jpg"
       },
       {
-        "musicHref": "/play/488",
-        "musicName": "Wish (神思者的哀伤和唯美)",
-        "musicArtist": "神思者",
-        "imageUrl": "http://i.htqyy.com/img8/0/488.jpg"
+        "musicHref": "/play/4",
+        "musicName": "水边的阿狄丽娜",
+        "musicArtist": "理查德",
+        "imageUrl": "http://i.htqyy.com/img8/0/4.jpg"
       }
     ]
   }
