@@ -1,37 +1,37 @@
 [
   {
-    "date": "2021-08-20",
+    "date": "2021-08-26",
     "datas": [
       {
-        "musicHref": "/play/1446",
-        "musicName": "迷情仙境",
-        "musicArtist": "轻音乐",
-        "imageUrl": "http://i.htqyy.com/img8/2/1446.jpg"
+        "musicHref": "/play/1589",
+        "musicName": "24/7 喜剧之王 (电影原声)",
+        "musicArtist": "日向大介",
+        "imageUrl": "http://i.htqyy.com/img8/3/1589.jpg"
       },
       {
-        "musicHref": "/play/1495",
-        "musicName": "Sleepless beauty (万有引力)",
-        "musicArtist": "浅仑大介",
-        "imageUrl": "http://i.htqyy.com/img8/2/1495.jpg"
+        "musicHref": "/play/775",
+        "musicName": "清香落音乐",
+        "musicArtist": "林海",
+        "imageUrl": "http://i.htqyy.com/img8/1/775.jpg"
       },
       {
-        "musicHref": "/gedan/108",
-        "musicName": "轻音乐世界之旅",
+        "musicHref": "/gedan/145",
+        "musicName": "古风纯乐-武侠与江湖",
         "musicArtist": "",
-        "imageUrl": "http://i.htqyy.com/gedan/img/gd/108s.jpg",
+        "imageUrl": "http://i.htqyy.com/gedan/img/gd/145s.jpg",
         "type": "2"
       },
       {
-        "musicHref": "/play/1478",
-        "musicName": "菊次郎的夏天",
-        "musicArtist": "纯音乐",
-        "imageUrl": "http://i.htqyy.com/img8/2/1478.jpg"
+        "musicHref": "/play/334",
+        "musicName": "Breath and Life",
+        "musicArtist": "Audiomachine",
+        "imageUrl": "http://i.htqyy.com/img8/0/334.jpg"
       },
       {
-        "musicHref": "/play/4",
-        "musicName": "水边的阿狄丽娜",
-        "musicArtist": "理查德",
-        "imageUrl": "http://i.htqyy.com/img8/0/4.jpg"
+        "musicHref": "/play/1078",
+        "musicName": "夜莺 (绝对优美的轻音乐)",
+        "musicArtist": "四季物语",
+        "imageUrl": "http://i.htqyy.com/img8/1/964.jpg"
       }
     ]
   }
