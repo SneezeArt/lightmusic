@@ -1,24 +1,24 @@
 [
   {
-    "date": "2021-08-26",
+    "date": "2021-09-01",
     "datas": [
       {
-        "musicHref": "/play/1589",
-        "musicName": "24/7 喜剧之王 (电影原声)",
-        "musicArtist": "日向大介",
-        "imageUrl": "http://i.htqyy.com/img8/3/1589.jpg"
+        "musicHref": "/play/1631",
+        "musicName": "Home Away from Home (宁静的快乐)",
+        "musicArtist": "Phil Coulter",
+        "imageUrl": "http://i.htqyy.com/img8/3/1631.jpg"
       },
       {
-        "musicHref": "/play/775",
-        "musicName": "清香落音乐",
-        "musicArtist": "林海",
-        "imageUrl": "http://i.htqyy.com/img8/1/775.jpg"
+        "musicHref": "/play/1677",
+        "musicName": "风居住的街道 钢琴版",
+        "musicArtist": "Phounius",
+        "imageUrl": "http://i.htqyy.com/img8/3/1677.jpg"
       },
       {
-        "musicHref": "/gedan/145",
-        "musicName": "古风纯乐-武侠与江湖",
+        "musicHref": "/gedan/7",
+        "musicName": "那些年的古典旋律",
         "musicArtist": "",
-        "imageUrl": "http://i.htqyy.com/gedan/img/gd/145s.jpg",
+        "imageUrl": "http://i.htqyy.com/gedan/img/gd/7s.jpg",
         "type": "2"
       },
       {
