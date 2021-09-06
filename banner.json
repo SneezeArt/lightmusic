@@ -1,37 +1,37 @@
 [
   {
-    "date": "2021-09-01",
+    "date": "2021-09-06",
     "datas": [
       {
-        "musicHref": "/play/1631",
-        "musicName": "Home Away from Home (宁静的快乐)",
-        "musicArtist": "Phil Coulter",
-        "imageUrl": "http://i.htqyy.com/img8/3/1631.jpg"
+        "musicHref": "/play/462",
+        "musicName": "时间之河 (Beyond The Sundial)",
+        "musicArtist": "班得瑞",
+        "imageUrl": "http://i.htqyy.com/img8/0/462.jpg"
       },
       {
-        "musicHref": "/play/1677",
-        "musicName": "风居住的街道 钢琴版",
-        "musicArtist": "Phounius",
-        "imageUrl": "http://i.htqyy.com/img8/3/1677.jpg"
+        "musicHref": "/play/31",
+        "musicName": "夜曲(很伤感的纯音乐) (Nocturne)",
+        "musicArtist": "神秘园",
+        "imageUrl": "http://i.htqyy.com/img8/0/31.jpg"
       },
       {
-        "musicHref": "/gedan/7",
-        "musicName": "那些年的古典旋律",
+        "musicHref": "/gedan/61",
+        "musicName": "给心做一个SPA",
         "musicArtist": "",
-        "imageUrl": "http://i.htqyy.com/gedan/img/gd/7s.jpg",
+        "imageUrl": "http://i.htqyy.com/gedan/img/gd/61s.jpg",
         "type": "2"
       },
       {
-        "musicHref": "/play/334",
-        "musicName": "Breath and Life",
-        "musicArtist": "Audiomachine",
-        "imageUrl": "http://i.htqyy.com/img8/0/334.jpg"
+        "musicHref": "/play/519",
+        "musicName": "月光の云海",
+        "musicArtist": "久石让",
+        "imageUrl": "http://i.htqyy.com/img8/1/519.jpg"
       },
       {
-        "musicHref": "/play/1078",
-        "musicName": "夜莺 (绝对优美的轻音乐)",
-        "musicArtist": "四季物语",
-        "imageUrl": "http://i.htqyy.com/img8/1/964.jpg"
+        "musicHref": "/play/723",
+        "musicName": "月半小夜曲",
+        "musicArtist": "Lawrence",
+        "imageUrl": "http://i.htqyy.com/img8/1/723.jpg"
       }
     ]
   }
