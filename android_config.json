@@ -1,7 +1,7 @@
 {
-  "version": "3.1.6.0",
+  "version": "3.3.1.0",
   "update": {
-    "version": "3.1.6",
+    "version": "3.3.0",
     "message": "1、优化播放体验"
   },
   "huawei": "0",
@@ -10,6 +10,7 @@
   "referer1": "http://www.htqyy.com",
   "limited": "20",
   "homebanner": "https://sneezeart.github.io/lightmusic/banner.json",
+  "homebanner_new": "https://sneezeart.github.io/lightmusic/banner_new.json",
   "found": "https://jp.rsscc.com/config/ios/testicons/we/1.json",
   "vipbg": "http://i.htcyy.com/img7/0/58.jpg",
   "rank": [
@@ -53,5 +54,39 @@
       }
     ],
     "unlock_hint": "此为一次性付费，解锁后永久免费使用所有功能"
-  }
+  },
+  "home_banners": [
+    {
+      "musicHref": "3081749339",
+      "musicName": "中秋团圆夜｜我欲寄明月予你",
+      "musicArtist": "",
+      "imageUrl": "https://img1.kuwo.cn/star/userpl2015/15/39/1601285629195_448007115_700.jpg"
+    },
+    {
+      "musicName": "天天电影 - 最新好看的电影推荐，最新、最热、最全的电影大片",
+      "musicArtist": "",
+      "imageUrl": "https://sneezeart.github.io/film/cover.png",
+      "type": "4",
+      "url": "https://play.google.com/store/apps/details?id=com.sneeze.film"
+    },
+    {
+      "musicHref": "/play/31",
+      "musicName": "夜曲(很伤感的纯音乐) (Nocturne)",
+      "musicArtist": "神秘园",
+      "imageUrl": "http://i.htqyy.com/img8/0/31.jpg"
+    },
+    {
+      "musicHref": "/gedan/61",
+      "musicName": "给心做一个SPA",
+      "musicArtist": "",
+      "imageUrl": "http://i.htqyy.com/gedan/img/gd/61s.jpg",
+      "type": "2"
+    },
+    {
+      "musicHref": "148358",
+      "musicName": "月半小夜曲",
+      "musicArtist": "李克勤",
+      "imageUrl": "https://img1.kuwo.cn/star/albumcover/500/93/68/645530546.jpg"
+    }
+  ]
 }
