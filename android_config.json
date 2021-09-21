@@ -1,5 +1,5 @@
 {
-  "version": "3.3.1.0",
+  "version": "3.3.1.1",
   "update": {
     "version": "3.3.0",
     "message": "1、优化播放体验"
@@ -60,7 +60,8 @@
       "musicHref": "3081749339",
       "musicName": "中秋团圆夜｜我欲寄明月予你",
       "musicArtist": "",
-      "imageUrl": "https://img1.kuwo.cn/star/userpl2015/15/39/1601285629195_448007115_700.jpg"
+      "imageUrl": "https://img1.kuwo.cn/star/userpl2015/15/39/1601285629195_448007115_700.jpg",
+      "type":"2"
     },
     {
       "musicName": "天天电影 - 最新好看的电影推荐，最新、最热、最全的电影大片",
