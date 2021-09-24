@@ -1,5 +1,5 @@
 {
-  "version": "3.4.0.1",
+  "version": "3.4.0.2",
   "update": {
     "version": "3.4.0",
     "message": "1、优化播放体验"
@@ -80,6 +80,12 @@
       "musicName": "Leaves in the Wind",
       "musicArtist": "Isaac Shepard",
       "imageUrl": "http://i.htqyy.com/img8/3/1669.jpg"
+    },
+    {
+      "musicHref": "/play/1582",
+      "musicName": "Forest Hymn 森林之歌 (大提琴的深情礼赞)",
+      "musicArtist": "Bill Douglas",
+      "imageUrl": "http://i.htqyy.com/img8/3/1582.jpg"
     }
   ]
 }
