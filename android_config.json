@@ -1,7 +1,7 @@
 {
-  "version": "3.3.1.1",
+  "version": "3.4.0.1",
   "update": {
-    "version": "3.3.0",
+    "version": "3.4.0",
     "message": "1、优化播放体验"
   },
   "huawei": "0",
@@ -57,37 +57,29 @@
   },
   "home_banners": [
     {
-      "musicHref": "3081749339",
-      "musicName": "中秋团圆夜｜我欲寄明月予你",
-      "musicArtist": "",
-      "imageUrl": "https://img1.kuwo.cn/star/userpl2015/15/39/1601285629195_448007115_700.jpg",
-      "type":"2"
+      "musicHref": "/play/1697",
+      "musicName": "红颜旧-钢琴曲 (琅琊榜插曲)",
+      "musicArtist": "赵海洋",
+      "imageUrl": "http://i.htqyy.com/img8/3/1697.jpg"
     },
     {
-      "musicName": "天天电影 - 最新好看的电影推荐，最新、最热、最全的电影大片",
+      "musicHref": "2993844456",
+      "musicName": "经典老歌：错过的是青春，爱过的是永远",
       "musicArtist": "",
-      "imageUrl": "https://sneezeart.github.io/film/cover.png",
-      "type": "4",
-      "url": "https://play.google.com/store/apps/details?id=com.sneeze.film"
-    },
-    {
-      "musicHref": "/play/31",
-      "musicName": "夜曲(很伤感的纯音乐) (Nocturne)",
-      "musicArtist": "神秘园",
-      "imageUrl": "http://i.htqyy.com/img8/0/31.jpg"
-    },
-    {
-      "musicHref": "/gedan/61",
-      "musicName": "给心做一个SPA",
-      "musicArtist": "",
-      "imageUrl": "http://i.htqyy.com/gedan/img/gd/61s.jpg",
+      "imageUrl": "https://img1.kuwo.cn/star/userpl2015/85/76/1586766224145_493167685_700.jpg",
       "type": "2"
     },
     {
-      "musicHref": "148358",
-      "musicName": "月半小夜曲",
-      "musicArtist": "李克勤",
-      "imageUrl": "https://img1.kuwo.cn/star/albumcover/500/93/68/645530546.jpg"
+      "musicHref": "/play/1408",
+      "musicName": "卡农变奏曲",
+      "musicArtist": "K.Williams",
+      "imageUrl": "http://i.htqyy.com/img8/3/1525.jpg"
+    },
+    {
+      "musicHref": "/play/1669",
+      "musicName": "Leaves in the Wind",
+      "musicArtist": "Isaac Shepard",
+      "imageUrl": "http://i.htqyy.com/img8/3/1669.jpg"
     }
   ]
 }
