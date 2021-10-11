@@ -1,5 +1,5 @@
 {
-  "version": "3.4.3.1",
+  "version": "3.4.3.2",
   "update": {
     "version": "3.4.3",
     "message": "1、优化播放体验"
@@ -59,35 +59,35 @@
   },
   "home_banners": [
     {
-      "musicHref": "/play/1697",
-      "musicName": "红颜旧-钢琴曲 (琅琊榜插曲)",
-      "musicArtist": "赵海洋",
-      "imageUrl": "http://i.htqyy.com/img8/3/1697.jpg"
+      "musicHref": "/play/187",
+      "musicName": "日晷之梦(电台背景音乐) (Sundial Dreams)",
+      "musicArtist": "Kevin Kern",
+      "imageUrl": "http://i.htqyy.com/img8/0/187.jpg"
     },
     {
-      "musicHref": "2993844456",
-      "musicName": "经典老歌：错过的是青春，爱过的是永远",
+      "musicHref": "3249762531",
+      "musicName": "怀念青春｜青葱时期MP3里的单曲循环",
       "musicArtist": "",
-      "imageUrl": "https://img1.kuwo.cn/star/userpl2015/85/76/1586766224145_493167685_700.jpg",
+      "imageUrl": "https://img1.kuwo.cn/star/userpl2015/47/97/1632313865795_560374747_700.jpg",
       "type": "2"
     },
     {
-      "musicHref": "/play/1408",
-      "musicName": "卡农变奏曲",
-      "musicArtist": "K.Williams",
-      "imageUrl": "http://i.htqyy.com/img8/3/1525.jpg"
+      "musicHref": "/play/951",
+      "musicName": "宁月 Silent Moon (二胡)",
+      "musicArtist": "贾鹏芳",
+      "imageUrl": "http://i.htqyy.com/img8/1/951.png"
     },
     {
-      "musicHref": "/play/1669",
-      "musicName": "Leaves in the Wind",
-      "musicArtist": "Isaac Shepard",
-      "imageUrl": "http://i.htqyy.com/img8/3/1669.jpg"
+      "musicHref": "/play/672",
+      "musicName": "秋天的回忆 (Memories Of The Fall)",
+      "musicArtist": "Ernesto Cortazar",
+      "imageUrl": "http://i.htqyy.com/img8/1/672.jpg"
     },
     {
-      "musicHref": "/play/1582",
-      "musicName": "Forest Hymn 森林之歌 (大提琴的深情礼赞)",
-      "musicArtist": "Bill Douglas",
-      "imageUrl": "http://i.htqyy.com/img8/3/1582.jpg"
+      "musicHref": "/play/1317",
+      "musicName": "气势音乐：Nara",
+      "musicArtist": "E.S. Posthumus",
+      "imageUrl": "http://i.htqyy.com/img8/2/1317.jpg"
     }
   ]
 }
