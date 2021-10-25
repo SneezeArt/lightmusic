@@ -1,5 +1,5 @@
 {
-  "version": "3.4.6.3",
+  "version": "3.4.6.4",
   "update": {
     "version": "3.4.6",
     "message": "1、优化播放体验"
@@ -59,16 +59,16 @@
   },
   "home_banners": [
     {
-      "musicHref": "/play/934",
-      "musicName": "如诗般 宁静 (钢琴长版)",
-      "musicArtist": "黄永灿",
-      "imageUrl": "http://i.htqyy.com/img8/1/934.jpg"
+      "musicHref": "/play/384",
+      "musicName": "雪千寻",
+      "musicArtist": "胡伟立",
+      "imageUrl": "http://i.htqyy.com/img8/0/384.jpg"
     },
     {
-      "musicHref": "3074127400",
-      "musicName": "抖音流行：邂逅一段秋日慢时光",
+      "musicHref": "3022937365",
+      "musicName": "秋日民谣：唱一首有故事的歌给你",
       "musicArtist": "",
-      "imageUrl": "https://img1.kuwo.cn/star/userpl2015/15/39/1634269337599_448007115_700.jpg",
+      "imageUrl": "https://img1.kuwo.cn/star/userpl2015/15/39/1632281064247_448007115_700.jpg",
       "type": "2"
     },
     {
@@ -78,16 +78,16 @@
       "imageUrl": "http://i.htqyy.com/img8/1/951.png"
     },
     {
-      "musicHref": "/play/672",
-      "musicName": "秋天的回忆 (Memories Of The Fall)",
-      "musicArtist": "Ernesto Cortazar",
-      "imageUrl": "http://i.htqyy.com/img8/1/672.jpg"
+      "musicHref": "/play/1421",
+      "musicName": "《海阔天空》夜色钢琴曲",
+      "musicArtist": "赵海洋",
+      "imageUrl": "http://i.htqyy.com/img8/2/1421.jpg"
     },
     {
-      "musicHref": "/play/1317",
-      "musicName": "气势音乐：Nara",
-      "musicArtist": "E.S. Posthumus",
-      "imageUrl": "http://i.htqyy.com/img8/2/1317.jpg"
+      "musicHref": "/play/1118",
+      "musicName": "Veloma",
+      "musicArtist": "Fabrizio Paterlini",
+      "imageUrl": "http://i.htqyy.com/img8/2/1118.jpg"
     }
   ]
 }
