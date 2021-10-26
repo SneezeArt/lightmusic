@@ -1,15 +1,16 @@
 {
-  "version": "3.4.2.0",
+  "version": "3.4.7.0",
   "update": {
-    "version": "3.4.2",
+    "version": "3.4.7",
     "message": "1、优化播放体验"
   },
+  "search_hint": "搜索音乐/歌手/故事",
   "review" : 1,
   "huawei": "0",
   "host": "http://www.htcyy.com",
   "referer": "http://www.htcyy.com",
   "referer1": "http://www.htqyy.com",
-  "limited": "100",
+  "limited": "20",
   "homebanner": "https://sneezeart.github.io/lightmusic/banner.json",
   "homebanner_new": "https://sneezeart.github.io/lightmusic/banner_new.json",
   "found": "https://jp.rsscc.com/config/ios/testicons/we/1.json",
@@ -41,7 +42,7 @@
       {
         "icon": "ds_pro_music.png",
         "title": "聆听所有音乐",
-        "subtitle": "在线聆听超过10000首的高音质轻音乐"
+        "subtitle": "在线聆听超过10000首的高音质音乐"
       },
       {
         "icon": "ds_pro_download.png",
@@ -51,42 +52,42 @@
       {
         "icon": "ds_pro_ad.png",
         "title": "无广告",
-        "subtitle": "免除广告打扰，一个纯粹的轻音乐app"
+        "subtitle": "免除广告打扰，一个纯粹的音乐app"
       }
     ],
     "unlock_hint": "此为一次性付费，解锁后永久免费使用所有功能"
   },
   "home_banners": [
     {
-      "musicHref": "/play/1697",
-      "musicName": "红颜旧-钢琴曲 (琅琊榜插曲)",
-      "musicArtist": "赵海洋",
-      "imageUrl": "http://i.htqyy.com/img8/3/1697.jpg"
+      "musicHref": "/play/384",
+      "musicName": "雪千寻",
+      "musicArtist": "胡伟立",
+      "imageUrl": "http://i.htqyy.com/img8/0/384.jpg"
     },
     {
-      "musicHref": "2993844456",
-      "musicName": "经典老歌：错过的是青春，爱过的是永远",
+      "musicHref": "3022937365",
+      "musicName": "秋日民谣：唱一首有故事的歌给你",
       "musicArtist": "",
-      "imageUrl": "https://img1.kuwo.cn/star/userpl2015/85/76/1586766224145_493167685_700.jpg",
+      "imageUrl": "https://img1.kuwo.cn/star/userpl2015/15/39/1632281064247_448007115_700.jpg",
       "type": "2"
     },
     {
-      "musicHref": "/play/1408",
-      "musicName": "卡农变奏曲",
-      "musicArtist": "K.Williams",
-      "imageUrl": "http://i.htqyy.com/img8/3/1525.jpg"
+      "musicHref": "/play/951",
+      "musicName": "宁月 Silent Moon (二胡)",
+      "musicArtist": "贾鹏芳",
+      "imageUrl": "http://i.htqyy.com/img8/1/951.png"
     },
     {
-      "musicHref": "/play/1669",
-      "musicName": "Leaves in the Wind",
-      "musicArtist": "Isaac Shepard",
-      "imageUrl": "http://i.htqyy.com/img8/3/1669.jpg"
+      "musicHref": "/play/1421",
+      "musicName": "《海阔天空》夜色钢琴曲",
+      "musicArtist": "赵海洋",
+      "imageUrl": "http://i.htqyy.com/img8/2/1421.jpg"
     },
     {
-      "musicHref": "/play/1582",
-      "musicName": "Forest Hymn 森林之歌 (大提琴的深情礼赞)",
-      "musicArtist": "Bill Douglas",
-      "imageUrl": "http://i.htqyy.com/img8/3/1582.jpg"
+      "musicHref": "/play/1118",
+      "musicName": "Veloma",
+      "musicArtist": "Fabrizio Paterlini",
+      "imageUrl": "http://i.htqyy.com/img8/2/1118.jpg"
     }
   ]
 }
