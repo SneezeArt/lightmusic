@@ -1,5 +1,5 @@
 {
-  "version": "3.4.9.1",
+  "version": "3.4.9.2",
   "update": {
     "version": "3.4.9",
     "message": "1、优化播放体验"
@@ -106,10 +106,10 @@
       "type": "2"
     },
     {
-      "musicHref": "3231594722",
-      "musicName": "《披荆斩棘的哥哥》滚烫人生永远发光",
+      "musicHref": "3265129516",
+      "musicName": "［独立民谣］感受远离城市喧嚣的片刻宁静",
       "musicArtist": "",
-      "imageUrl": "https://kwimg3.kuwo.cn/star/upload/70/92/1635501962032_.jpg",
+      "imageUrl": "https://kwimg3.kuwo.cn/star/upload/ecom/1636105863407.png",
       "type": "2"
     }
   ],
