@@ -1,5 +1,5 @@
 {
-  "version": "3.4.9.2",
+  "version": "3.4.9.4",
   "update": {
     "version": "3.4.9",
     "message": "1、优化播放体验"
@@ -59,35 +59,35 @@
   },
   "home_banners": [
     {
-      "musicHref": "/play/242",
-      "musicName": "卡农钢琴曲 (Canon)",
-      "musicArtist": "我的野蛮女友",
-      "imageUrl": "http://i.htqyy.com/img8/0/242.jpg"
+      "musicHref": "/play/559",
+      "musicName": "耳边私语 (Almost a Whisper)",
+      "musicArtist": "Chris Phillips",
+      "imageUrl": "http://i.htqyy.com/img8/1/559.jpg"
     },
     {
-      "musicHref": "3265399589",
-      "musicName": "国风剧情：蓦然回首，那人却不在",
+      "musicHref": "2616519333",
+      "musicName": "若来生有缘，爱你我便不放手",
       "musicArtist": "",
-      "imageUrl": "https://img1.kuwo.cn/star/userpl2015/91/40/1635224270506_219636391_700.jpg",
+      "imageUrl": "https://img1.kuwo.cn/star/userpl2015/74/18/1542052996977_395182674_700.jpg",
       "type": "2"
     },
     {
-      "musicHref": "/play/334",
-      "musicName": "Breath and Life",
-      "musicArtist": "Audiomachine",
-      "imageUrl": "http://i.htqyy.com/img8/0/334.jpg"
+      "musicHref": "/play/753",
+      "musicName": "在你身上流动的河 (River Flows In You)",
+      "musicArtist": "Jasper Forks",
+      "imageUrl": "http://i.htqyy.com/img8/1/877.jpg"
     },
     {
-      "musicHref": "/play/683",
-      "musicName": "Butterfly Waltz",
-      "musicArtist": "Brian Crain",
-      "imageUrl": "http://i.htqyy.com/img8/0/430.jpg"
+      "musicHref": "/play/1375",
+      "musicName": "提笔为青春 (新白娘子传奇配乐原声)",
+      "musicArtist": "川井宪次",
+      "imageUrl": "http://i.htqyy.com/img8/2/1375.jpg"
     },
     {
-      "musicHref": "/play/682",
-      "musicName": "Water",
-      "musicArtist": "Brian Crain",
-      "imageUrl": "http://i.htqyy.com/img8/2/1348.jpg"
+      "musicHref": "/play/782",
+      "musicName": "味道",
+      "musicArtist": "张崇德",
+      "imageUrl": "http://i.htqyy.com/img8/1/782.jpg"
     }
   ],
   "hot_banners": [
@@ -107,9 +107,9 @@
     },
     {
       "musicHref": "3265129516",
-      "musicName": "［独立民谣］感受远离城市喧嚣的片刻宁静",
+      "musicName": "感受远离城市喧嚣的片刻宁静",
       "musicArtist": "",
-      "imageUrl": "https://kwimg3.kuwo.cn/star/upload/ecom/1636105863407.png",
+      "imageUrl": "https://kwimg3.kuwo.cn/star/upload/ecom/1636041031232.jpg",
       "type": "2"
     }
   ],
