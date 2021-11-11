@@ -1,5 +1,5 @@
 {
-  "version": "3.5.0.2",
+  "version": "3.5.0.3",
   "update": {
     "version": "3.5.0",
     "message": "1、优化播放体验"
@@ -59,10 +59,10 @@
   },
   "home_banners": [
     {
-      "musicHref": "/play/559",
-      "musicName": "耳边私语 (Almost a Whisper)",
-      "musicArtist": "Chris Phillips",
-      "imageUrl": "http://i.htqyy.com/img8/1/559.jpg"
+      "musicHref": "/play/927",
+      "musicName": "月光奏鸣曲 (Beethoven: Moonlight)",
+      "musicArtist": "贝多芬",
+      "imageUrl": "http://i.htqyy.com/img8/1/927.jpg"
     },
     {
       "musicHref": "2304113002",
