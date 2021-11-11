@@ -1,5 +1,5 @@
 {
-  "version": "3.5.0.3",
+  "version": "3.5.0.4",
   "update": {
     "version": "3.5.0",
     "message": "1、优化播放体验"
@@ -60,7 +60,7 @@
   "home_banners": [
     {
       "musicHref": "/play/927",
-      "musicName": "月光奏鸣曲 (Beethoven: Moonlight)",
+      "musicName": "月光奏鸣曲",
       "musicArtist": "贝多芬",
       "imageUrl": "http://i.htqyy.com/img8/1/927.jpg"
     },
