@@ -1,5 +1,5 @@
 {
-  "version": "4.0.0.1",
+  "version": "4.0.0.2",
   "update": {
     "version": "4.0.0",
     "message": "1、优化播放体验"
@@ -59,35 +59,35 @@
   },
   "home_banners": [
     {
-      "musicHref": "/play/927",
-      "musicName": "月光奏鸣曲",
-      "musicArtist": "贝多芬",
-      "imageUrl": "http://i.htqyy.com/img8/1/927.jpg"
+      "musicHref": "/play/777",
+      "musicName": "自由如鸟 (Free as a Bird)",
+      "musicArtist": "Omar Akram",
+      "imageUrl": "http://i.htqyy.com/img8/1/777.jpg"
     },
     {
-      "musicHref": "2304113002",
-      "musicName": "【梁静茹 生活】让你沉下心来的 天籁之音",
+      "musicHref": "2951805989",
+      "musicName": "【粤语】聆听一首老歌，回味一段往事",
       "musicArtist": "",
-      "imageUrl": "https://img1.kuwo.cn/star/userpl2015/68/84/1575159540069_118633368_700.jpg",
+      "imageUrl": "https://img1.kuwo.cn/star/userpl2015/29/45/1580723605054_183409029_700.jpg",
       "type": "2"
     },
     {
-      "musicHref": "/play/753",
-      "musicName": "在你身上流动的河 (River Flows In You)",
-      "musicArtist": "Jasper Forks",
-      "imageUrl": "http://i.htqyy.com/img8/1/877.jpg"
+      "musicHref": "/play/1398",
+      "musicName": "少女的祈祷 (钢琴曲超好听)",
+      "musicArtist": "理查德",
+      "imageUrl": "http://i.htqyy.com/img8/2/1398.jpg"
     },
     {
-      "musicHref": "/play/1375",
-      "musicName": "提笔为青春 (新白娘子传奇配乐原声)",
-      "musicArtist": "川井宪次",
-      "imageUrl": "http://i.htqyy.com/img8/2/1375.jpg"
+      "musicHref": "/play/154",
+      "musicName": "你离开的真相 (The Truth That You Leave)",
+      "musicArtist": "Pianoboy",
+      "imageUrl": "http://i.htqyy.com/img8/0/154.jpg"
     },
     {
-      "musicHref": "/play/782",
-      "musicName": "味道",
-      "musicArtist": "张崇德",
-      "imageUrl": "http://i.htqyy.com/img8/1/782.jpg"
+      "musicHref": "/play/682",
+      "musicName": "Water",
+      "musicArtist": "Brian Crain",
+      "imageUrl": "http://i.htqyy.com/img8/2/1348.jpg"
     }
   ],
   "hot_banners": [
