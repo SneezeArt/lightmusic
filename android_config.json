@@ -1,7 +1,7 @@
 {
-  "version": "4.0.0.2",
+  "version": "4.1.0.1",
   "update": {
-    "version": "4.0.0",
+    "version": "4.1.0",
     "message": "1、优化播放体验"
   },
   "search_hint": "搜索音乐/歌手/专辑",
