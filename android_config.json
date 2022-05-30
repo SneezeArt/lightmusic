@@ -1,5 +1,5 @@
 {
-  "version": "4.1.0.1",
+  "version": "4.1.0.2",
   "update": {
     "version": "4.1.0",
     "message": "1、优化播放体验"
@@ -92,24 +92,38 @@
   ],
   "hot_banners": [
     {
-      "musicHref": "3223243607",
-      "musicName": "2021中国好声音",
+      "musicHref": "3344474759",
+      "musicName": "声生不息 Ι 传承经典港乐，完成新时代表达",
       "musicArtist": "",
-      "imageUrl": "https://kwimg4.kuwo.cn/star/upload/62/27/1634316992909_.jpg",
+      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/54/10/1653840200484_.jpg",
       "type": "2"
     },
     {
-      "musicHref": "3264984509",
-      "musicName": "时光音乐会丨音乐时光机走心开唱",
+      "musicHref": "3326469472",
+      "musicName": "天赐的声音第三季 Ι 以音会友，为金曲而战",
       "musicArtist": "",
-      "imageUrl": "https://kwimg3.kuwo.cn/star/upload/37/72/1635508182268_.jpg",
+      "imageUrl": "https://kwimg2.kuwo.cn/star/upload/57/63/1653666976227_.jpg",
       "type": "2"
     },
     {
-      "musicHref": "3265129516",
-      "musicName": "感受远离城市喧嚣的片刻宁静",
+      "musicHref": "3340290270",
+      "musicName": "春天花会开 Ι 追溯民歌本源",
       "musicArtist": "",
-      "imageUrl": "https://kwimg3.kuwo.cn/star/upload/ecom/1636041031232.jpg",
+      "imageUrl": "https://kwimg2.kuwo.cn/star/upload/83/18/1653666901310_.jpg",
+      "type": "2"
+    },
+    {
+      "musicHref": "3335971332",
+      "musicName": "Queendom2 Ι 韩国女团回归大战",
+      "musicArtist": "",
+      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/93/7/1653626441901_.jpg",
+      "type": "2"
+    },
+    {
+      "musicHref": "3338301162",
+      "musicName": "为歌而赞第二季 Ι 老歌pk新歌",
+      "musicArtist": "",
+      "imageUrl": "https://kwimg1.kuwo.cn/star/upload/90/94/1653756341184_.jpg",
       "type": "2"
     }
   ],
